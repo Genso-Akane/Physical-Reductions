@@ -1,6 +1,5 @@
-# Quantum Mechanics: Complete General Reduction
-> **Status:** Operational Engineering Protocol  
-> **Core Principle:** Process description under dominance of `21. Measurement` and discreteness of `2. Event`.
+# Quantum Mechanics (Complete General Reduction)
+> **Status:** Operational Engineering Protocol
 
 ---
 
@@ -12,33 +11,39 @@
 ---
 
 ## ⚡ Cause
-* **`2. Event`** — The primary physical fact.
+**2. Event**
 
 ---
 
 ## ⚙️ Mechanism
-1. **`2. Event` → `9. Process`**: Event forms a process as a chain of causally connected changes.
-2. **`2. Event` → `20. Information`**: Each event realizes information as the structure of its outcome.
-3. **`20. Information` + `7. System` → `21. Measurement`**: Measurement fixes the system state as an event of information realization.
-4. **`16. Limiting Velocity` + `21. Measurement` → `23. Causal Consistency`**: Measurement results in different systems require consistency under the constraint of the limiting velocity.
+* **`2. Event` → `9. Process`**
+* **`2. Event` → `20. Information`**
+* **`20. Information` + `7. System` → `21. Measurement`**
+* **`16. Limiting Velocity of a Process` + `21. Measurement` → `23. Causal Consistency of Processes`**
+
+* **Event forms a process as a chain of causally connected changes.**
+* **Each event realizes information as the structure of its outcome.**
+* **Measurement fixes the system state as an event of information realization.**
+* **Measurement results in different systems require consistency under the constraint of the limiting velocity of a process.**
 
 ---
 
 ## 📡 Effect
-All effects of quantum mechanics reduce to:
-* Structure of **`9. Process`**
-* Realization of **`20. Information`**
-* Role of **`21. Measurement`**
-* Necessity of **`23. Causal Consistency`**
+**All effects of quantum mechanics reduce to:**
+* structure of **`9. Process`**
+* realization of **`20. Information`**
+* role of **`21. Measurement`**
+* necessity of **`23. Causal Consistency of Processes`**
 
-*No additional mechanisms outside the causal graph are required.*
+*No additional mechanisms outside the graph are required.*
 
 ---
 
-## 🛠 Practical Conclusion (Engineering)
-Quantum mechanics is a **regime**, not a separate law.
+## 🛠 Practical Conclusion
+**“Quantum mechanics”** is a regime of process description under dominance of **`21. Measurement`** and discreteness of **`2. Event`**.
 
-* **Control:** Achieved through control of `9. Process`.
-* **Results:** Defined by the configuration of `21. Measurement`.
-* **Correlations:** Ensured through `23. Causal Consistency`.
-* **Limits:** Defined by `16. Limiting Velocity of a Process`.
+**Engineering:**
+* control is achieved through control of **`9. Process`**
+* results are defined by configuration of **`21. Measurement`**
+* correlations are ensured through **`23. Causal Consistency of Processes`**
+* limits are defined by **`16. Limiting Velocity of a Process`**
