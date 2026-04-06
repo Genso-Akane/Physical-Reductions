@@ -1,6 +1,5 @@
 # Quantum Entanglement
-> **Status:** Operational Engineering Protocol  
-> **Core Principle:** Entanglement as a single `9. Process` with a shared `20. Information` structure, requiring no superluminal transmission.
+> **Status:** Operational Engineering Protocol
 
 ---
 
@@ -12,30 +11,36 @@
 ---
 
 ## ⚡ Cause
-* **`9. Process`** — The unified chain of causally connected changes.
+**9. Process**
 
 ---
 
 ## ⚙️ Mechanism
-1. **`2. Event` → `9. Process`**: A single process forms a connected structure of information through events.
-2. **`2. Event` → `20. Information`**: Information is realized in `21. Measurement` as events of state fixation in different systems.
-3. **`16. Limiting Velocity` + `21. Measurement` → `23. Causal Consistency`**: Measurement results are consistent via causal consistency under the constraint of the limiting velocity of a process.
+* **`2. Event` → `9. Process`**
+* **`2. Event` → `20. Information`**
+* **`20. Information` + `7. System` → `21. Measurement`**
+* **`16. Limiting Velocity of a Process` + `21. Measurement` → `23. Causal Consistency of Processes`**
 
-*Entanglement relies on the fact that information is already defined by the common process structure, not transmitted post-measurement.*
+A single process forms a connected structure of information through events.
+Information is realized in measurement as events of state fixation in different systems.
+Measurement results are consistent through **`23. Causal Consistency of Processes`** under the constraint of **`16. Limiting Velocity of a Process`**.
 
 ---
 
 ## 📡 Effect
-* **Correlation:** Measurement in one system realizes information consistent with results in another.
-* **Non-transmission:** No transmission of `20. Information` occurs; the structure is pre-defined by the common `9. Process`.
-* **Causality preserved:** No violation of the `16. Limiting Velocity` occurs, as no signal is sent.
+* **`21. Measurement`** in one system realizes information consistent with measurement results in another system.
+* Correlation does not require transmission of **`20. Information`**, since it is already defined by a common **`9. Process`**.
+* Violation of **`16. Limiting Velocity of a Process`** does not occur.
+
+
 
 ---
 
-## 🛠 Practical Conclusion (Engineering)
-“Entanglement” is a regime of shared information realization.
+## 🛠 Practical Conclusion
+**“Entanglement”** is a single **`9. Process`** with a shared structure of **`20. Information`**.
 
-* **Control:** Achieved through the formation of a common `9. Process`.
-* **Correlations:** Fixed through coordinated `21. Measurement` events.
-* **Limits:** Defined by the `16. Limiting Velocity of a Process` (applicability horizon).
-* **Decorrelation:** Occurs when the common `9. Process` is destroyed by an external `2. Event`.
+**Engineering:**
+* control is achieved through formation of a common **`9. Process`**
+* correlations are fixed through coordinated **`21. Measurement`**
+* limits of applicability are defined by **`16. Limiting Velocity of a Process`**
+* decorrelation occurs when the common **`9. Process`** is destroyed by external **`2. Event`**
